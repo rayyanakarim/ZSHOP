@@ -12,3 +12,4 @@ public class Main {
     }
 }
 //Rayyan
+//from shadhin
